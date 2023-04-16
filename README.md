@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @yyashhp
-- 👀 I’m interested in algorithmic trading, machine learning, quantitative strategies, and scientific programming with Python
-- 🌱 I’m currently learning how to implement portfolio optimization strategies, particularly Markowitz optimization
-- 💞️ I’m looking to collaborate on other portfolio optimization strategies, and algorithmic trading strats
+- 👀 I’m interested in neural networks, algorithmic trading, machine learning, quantitative strategies, and game theory
+- 🌱 I’m currently learning how to develop transparent Neural Networks, as well as stable Neural Networks for complex datasets, digging into the    foundations of NNs, such as their math and organization
+- 💞️ I’m looking to collaborate on other neural network projects, as well as portfolio optimization strategies, marketing making strategies, and general algorithmic trading strats
 - 📫 How to reach me through email, yashpatel@miami.edu
 
 <!---
