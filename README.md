@@ -2,7 +2,7 @@
 
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=yyashhp&show_icons=true" 
+<img src="https://github-readme-stats.vercel.app/api?username=yyashhp&show_icons=true&include_all_commits=true" 
         alt="Picture" 
         width="1000" 
         height="300" 
