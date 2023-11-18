@@ -9,7 +9,7 @@
         style="display: block; margin: 50 " />
  
 
-<h4> I am a second-year student at the University of Miami passionate about quant finance, machine learning, probability, and game theory, and am looking to break into a field where I can apply my interests
+<h4> I am a student at the University of Miami passionate about quant finance, machine learning, probability, and game theory, and am looking to break into a field where I can apply my interests
   </h4>
 <br/>
 
