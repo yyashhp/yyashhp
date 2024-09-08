@@ -9,8 +9,10 @@
         style="display: block; margin: 50 " />
  
 
-<h4> I am a student at the University of Miami. 
-        <li>I have previous experience as a research intern at Columbia University </li> <li>currently interning as a SWE at a hedge fund during the year</li> <li>Interning as a QR in the summer of 2025 </li>
+<h4> I am a student at the University of Miami
+        <li>interning at a hedge fund as a Quant Researcher in the summer of 2025 </li>
+        <li>currently interning as a SWE at a hedge fund during the year until summer of 2025</li>
+        <li>I have previous experience as a research intern at Columbia University </li>  
 </h4>
 <br/>
 
