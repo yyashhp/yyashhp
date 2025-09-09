@@ -9,12 +9,6 @@
         style="display: block; margin: 50 " />
  
 
-<h4> I am a student at the University of Miami
-        <li>interning at a hedge fund as a quant researcher in the summer of 2025 </li>
-        <li>currently interning as a SWE at a hedge fund during the year until the summer of 2025</li>
-        <li>I have previous experience as a research intern at Columbia University </li>  
-</h4>
-<br/>
 
 
 
